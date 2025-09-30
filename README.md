@@ -6,18 +6,24 @@
 
 ---
 
-I am a highly skilled Software Engineer with over 5 years of experience in blockchain development, specializing in Rust. I have a proven track record of building secure and scalable smart contracts for various DeFi applications, including lending/borrowing protocols, bridges, vaults, and memecoins. My expertise extends to working with Substrate, CosmWasm, and Solana, along with a deep understanding of blockchain infrastructure and related technologies.
+Blockchain Developer with 4+ years of hands-on experience architecting secure, scalable, and high-performance 
+decentralized  systems  using  Solidity  and  Go.  Specialized  in  smart  contract  development,  cross-chain 
+infrastructure, gasless transactions, order book engines, and DeFi protocols. Adept at building EVM-compatible 
+solutions, modular backend architectures, and custom tooling for bridges, rollups, and perpetual trading. Proven 
+expertise in performance optimization, on-chain/off-chain integrations, and internal audits. Passionate about 
+contributing to next-gen Web3 ecosystems
 
 ---
 
 ### 🌟 Key Skills
 
-- **Blockchain Technologies:** CosmWasm, Substrate, Solana, Ethereum
-- **Programming Languages:** Rust, GoLang, Solidity
-- **Consensus Protocols:** Zero-knowledge, Proof of Stake (PoS), Proof of Neutrality, PBFT (Byzantine)
-- **Blockchain Development:** Smart contracts, DeFi protocols using Cosmos-SDK and EVM
-- **Cryptography:** Encryption, hashing, digital signatures, zero-knowledge proofs
-- **Performance Optimization:** Efficient coding practices, parallelism, caching mechanisms
+●  Programming: Solidity, Go, TypeScript, Rust, 
+●  Frameworks & Tools: Hardhat, Foundry, OpenZeppelin, Ethers.js, Hardhat-deploy, Actix, CosmWasm 
+●  Blockchain & Protocols: Ethereum, OP Stack, Cosmos SDK, Substrate, EVM 
+●  Infrastructure: Cross-chain bridges, Rollups, Gas tanks, Indexers, Orchestrators, Event watchers 
+●  Security: EIP-712, Signature validation, Commit-reveal, Multisig flows, Upgradability (UUPS/Transparent) 
+●  Advanced Topics: MEV mitigation, Meta transactions, Simulation relays, Account abstraction 
+●  Monitoring & CI: Docker, GitHub Actions, Prometheus, Grafana, REST/RPC services
 
 ---
 
