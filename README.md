@@ -29,58 +29,11 @@ contributing to next-gen Web3 ecosystems
 
 ### 💼 Professional Experience
 
-#### **Senior Blockchain Engineer – SecFinance ** (April 2023 - Present)
-- ●  Architected  and maintained Solidity smart contracts for DeFi modules, including vaults, bridges, and 
-perpetuals, on EVM-compatible chains. 
-- ●  Built a Go-based cross-chain relayer integrating Ethereum and Substrate; utilized event indexing, finality 
-confirmation logic, and consensus-based forwarding. 
-- ●  Engineered  Rust-based  cross-chain  relayer  services  using  Actix  +  Tokio,  implementing  async 
-concurrency models, bounded queues, and retries with exponential backoff for reliable message passing 
-between Ethereum and Cosmos chains. 
-- ●  Built CosmWasm contracts in Rust for vaults and governance modules, leveraging multi-contract entry 
-points  and optimizing storage access patterns with 
-- ●  Developed  and maintained a Gas Tank system (Go backend + Solidity hooks) supporting sponsored 
-transactions via ERC-2771-style meta txns. 
-- ●  Designed EIP-712 based signature schemes for off-chain trade submission, integrated with Go servers for 
-batch verification and settlement. 
-- ●  Developed  Rust-based  indexers  with  async  gRPC  +  JSON-RPC  clients,  implementing Merkle proof 
-verification and efficient state sync pipelines for validator and oracle data. 
-- ●  Built  Go  orchestrators  to  manage dynamic microservices (indexers, validators, simulators) based on 
-contract state triggers. 
-- ●  Designed and deployed order book matching logic across Solidity and Go, with hybrid execution for 
-speed and on-chain settlement. 
-- ●  Integrated Chainlink/Pyth oracle feeds for pricing data with fallback mechanisms and time-weighted 
-price validation. 
-- ●  Researched and mitigated MEV risks across trade settlement and liquidation flows via delayed reveal 
-and transaction simulation. 
-- ●  Conducted  internal  audits  for  Solidity  contracts,  preventing  reentrancy,  overflow/underflow,  and 
-signature forgery vulnerabilities. 
-- ●  Contributed to NFT-based tools, including lending platforms and fractional ownership protocols with 
-Solidity + Go architecture. 
-- ●  Employed  libp2p  and  custom  Go  messaging  layers  to  synchronize  validator updates and enhance 
-relayer security.
+#### Senior Blockchain Engineer – SecFinance  (April 2023 - Present)
+- As a Blockchain Developer with extensive experience in both Solidity and Go, I have a proven track record of architecting, building, and maintaining secure, scalable, and high-performance decentralized systems. I have developed DeFi modules including vaults, bridges, and perpetuals, and built robust cross-chain relayers using Go and Rust to enable reliable message passing between chains like Ethereum, Cosmos, and Substrate. My expertise extends to designing gas-tank systems for sponsored transactions, implementing off-chain EIP-712 signature schemes for efficient trade settlement, and creating hybrid order book engines with on-chain settlement. I'm skilled in building Rust-based indexers with Merkle proof verification and designing Go-based orchestrators to manage microservices. Additionally, I've conducted internal security audits to mitigate common smart contract vulnerabilities and have integrated various oracle feeds while researching and mitigating MEV risks. My work also includes contributions to NFT-based lending platforms and fractional ownership protocols, demonstrating my versatility in the Web3 ecosystem.
 
-#### **Blockchain Engineer – MovoCash ** (December 2020 - February 2023)
-- ●  Developed  Solidity  contracts  for  modular  DeFi  systems:  vaults,  AMMs,  NFT  marketplaces,  and 
-governance modules. 
-- ●  Implemented custom Substrate pallets in Rust for staking and reward distribution, leveraging FRAME 
-macros and offchain workers for validator set updates. 
-- ●  Integrated Solidity contracts with Go-based backends and indexers, enabling real-time event syncing 
-and stateful analytics. 
-- ●  Designed Rust-based event processors with and streaming RPC, reducing block sync latency across 
-Cosmos ↔ Ethereum bridge adapters by ~25%. 
-- ●  Built a Go REST API layer for trading frontends to consume indexed on-chain data and relay batched 
-transactions to the contracts. 
-- ●  Engineered cross-chain asset tracking flows, integrating Cosmos SDK-based chains with Solidity smart 
-contracts via Go adapters. 
-- ●  Designed and deployed position vaults with liquidation logic and margin-based collateral management 
-in Solidity. 
-- ●  Created internal tools for log decoding, event parsing, and alerting systems using Go for contract 
-observability. 
-- ●  Wrote extensive tests using Hardhat and Foundry, simulating edge conditions and flashloan-based 
-exploits. 
-- ●  Collaborated with DevOps and frontend teams to maintain smooth deployment, observability, and 
-rollouts. 
+#### Blockchain Engineer – MovoCash  (December 2020 - February 2023)
+- As a blockchain developer, I've leveraged my expertise in Solidity, Rust, and Go to build and maintain robust decentralized systems. My experience includes developing modular DeFi systems for vaults, AMMs, and NFT marketplaces, as well as implementing custom Substrate pallets for staking and reward distribution. I'm skilled in creating seamless integrations between Solidity contracts and Go-based backends, designing high-performance Rust-based event processors, and engineering cross-chain asset tracking flows between Cosmos and Ethereum. Additionally, I've built internal tools for contract observability and have a strong focus on security, writing extensive tests to simulate flashloan attacks and other exploits. My collaborative skills enable me to work effectively with cross-functional teams to ensure smooth deployments and rollouts.
 
 
 ---
