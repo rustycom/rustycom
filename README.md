@@ -39,7 +39,7 @@ contributing to next-gen Web3 ecosystems
 ---
 
 ### 🔍 Interests
-Building next-gen Web3 ecosystems by leveraging expertise in DeFi protocols and cross-chain infrastructure to create efficient and scalable decentralized applications.
+- Building next-gen Web3 ecosystems by leveraging expertise in DeFi protocols and cross-chain infrastructure to create efficient and scalable decentralized applications.
 
 ---
 
