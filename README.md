@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | Blockchain Developer | Rust Enthusiast
 
-📧 [harshladd007@gmail.com](mailto:harshladd007@gmail.com)
+📧 [harshladdhaxo@gmail.com](mailto:harshladdhaxo@gmail.com)
 
 ---
 
@@ -17,13 +17,13 @@ contributing to next-gen Web3 ecosystems
 
 ### 🌟 Key Skills
 
-●  **Programming:** Solidity, Go, TypeScript, Rust, 
-●  **Frameworks & Tools:** Hardhat, Foundry, OpenZeppelin, Ethers.js, Hardhat-deploy, Actix, CosmWasm 
-●  **Blockchain & Protocols:** Ethereum, OP Stack, Cosmos SDK, Substrate, EVM 
-●  **Infrastructure:** Cross-chain bridges, Rollups, Gas tanks, Indexers, Orchestrators, Event watchers 
-●  **Security:** EIP-712, Signature validation, Commit-reveal, Multisig flows, Upgradability (UUPS/Transparent) 
-●  **Advanced Topics:** MEV mitigation, Meta transactions, Simulation relays, Account abstraction 
-●  **Monitoring & CI:** Docker, GitHub Actions, Prometheus, Grafana, REST/RPC services
+- **Programming:** Solidity, Go, TypeScript, Rust, 
+- **Frameworks & Tools:** Hardhat, Foundry, OpenZeppelin, Ethers.js, Hardhat-deploy, Actix, CosmWasm 
+- **Blockchain & Protocols:** Ethereum, OP Stack, Cosmos SDK, Substrate, EVM 
+- **Infrastructure:** Cross-chain bridges, Rollups, Gas tanks, Indexers, Orchestrators, Event watchers 
+- **Security:** EIP-712, Signature validation, Commit-reveal, Multisig flows, Upgradability (UUPS/Transparent) 
+- **Advanced Topics:** MEV mitigation, Meta transactions, Simulation relays, Account abstraction 
+- **Monitoring & CI:** Docker, GitHub Actions, Prometheus, Grafana, REST/RPC services
 
 ---
 
