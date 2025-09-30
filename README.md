@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Harsh Laddha
 
-### Senior Software Engineer | Blockchain Developer | Rust Enthusiast
+### Senior Blockchain Developer | Rust Enthusiast
 
 📧 [harshladdhaxo@gmail.com](mailto:harshladdhaxo@gmail.com)
 
