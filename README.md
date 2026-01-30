@@ -16,7 +16,7 @@ I enjoy working close to the protocol layer. designing systems that handle real 
 
 ### 🧠 Core Expertise
 
-Languages: Go, Solidity, Rust (systems-level exposure), TypeScript
+Languages: Go, Solidity, Rust, TypeScript
 
 Blockchain & Protocols: Ethereum (EVM), Tendermint, Avalanche (Snowman), Rollups, Custom L1/L2s
 
