@@ -1,49 +1,48 @@
-# 👋 Hi there, I'm Harsh Laddha
+# 👋 Hi there!
 
-### Senior Blockchain Developer | Rust Enthusiast
+### Senior Blockchain / Protocol Engineer
 
-📧 [harshladdhaxo@gmail.com](mailto:harshladdhaxo@gmail.com)
-
----
-
-Blockchain Developer with 4+ years of hands-on experience architecting secure, scalable, and high-performance 
-decentralized  systems  using  Solidity  and  Go.  Specialized  in  smart  contract  development,  cross-chain 
-infrastructure, gasless transactions, order book engines, and DeFi protocols. Adept at building EVM-compatible 
-solutions, modular backend architectures, and custom tooling for bridges, rollups, and perpetual trading. Proven 
-expertise in performance optimization, on-chain/off-chain integrations, and internal audits. Passionate about 
-contributing to next-gen Web3 ecosystems
+📧 [piyushgx0@gmail.com](mailto:piyushgx0@gmail.com )
 
 ---
 
-### 🌟 Key Skills
+Blockchain engineer with 4+ years of hands-on experience building production-grade decentralized systems across EVM, Tendermint, and Avalanche-based chains. I specialize in protocol engineering, smart contracts, rollups, and DeFi infrastructure, with a strong focus on security, performance, and correctness.
 
-- **Programming:** Solidity, Go, TypeScript, Rust, 
-- **Frameworks & Tools:** Hardhat, Foundry, OpenZeppelin, Ethers.js, Hardhat-deploy, Actix, CosmWasm 
-- **Blockchain & Protocols:** Ethereum, OP Stack, Cosmos SDK, Substrate, EVM 
-- **Infrastructure:** Cross-chain bridges, Rollups, Gas tanks, Indexers, Orchestrators, Event watchers 
-- **Security:** EIP-712, Signature validation, Commit-reveal, Multisig flows, Upgradability (UUPS/Transparent) 
-- **Advanced Topics:** MEV mitigation, Meta transactions, Simulation relays, Account abstraction 
-- **Monitoring & CI:** Docker, GitHub Actions, Prometheus, Grafana, REST/RPC services
+I’ve worked on custom L1s and L2s, Tendermint-based micro-rollups, perpetual settlement systems, cross-chain messaging, and oracle integrations. My background spans chain-level development, consensus mechanisms, and on-chain/off-chain data pipelines, including debugging and stabilizing mainnet systems under real production load.
+
+I enjoy working close to the protocol layer. designing systems that handle real value, scaling decentralized infrastructure, and solving hard distributed systems problems.
 
 ---
 
-### 💼 Professional Experience
+### 🧠 Core Expertise
 
-#### Senior Blockchain Engineer – SecFinance  (April 2023 - Present)
-- As a Blockchain Developer with extensive experience in both Solidity and Go, I have a proven track record of architecting, building, and maintaining secure, scalable, and high-performance decentralized systems. I have developed DeFi modules including vaults, bridges, and perpetuals, and built robust cross-chain relayers using Go and Rust to enable reliable message passing between chains like Ethereum, Cosmos, and Substrate. My expertise extends to designing gas-tank systems for sponsored transactions, implementing off-chain EIP-712 signature schemes for efficient trade settlement, and creating hybrid order book engines with on-chain settlement. I'm skilled in building Rust-based indexers with Merkle proof verification and designing Go-based orchestrators to manage microservices. Additionally, I've conducted internal security audits to mitigate common smart contract vulnerabilities and have integrated various oracle feeds while researching and mitigating MEV risks. My work also includes contributions to NFT-based lending platforms and fractional ownership protocols, demonstrating my versatility in the Web3 ecosystem.
+Languages: Go, Solidity, Rust (systems-level exposure), TypeScript
 
-#### Blockchain Engineer – MovoCash  (December 2020 - February 2023)
-- As a blockchain developer, I've leveraged my expertise in Solidity, Rust, and Go to build and maintain robust decentralized systems. My experience includes developing modular DeFi systems for vaults, AMMs, and NFT marketplaces, as well as implementing custom Substrate pallets for staking and reward distribution. I'm skilled in creating seamless integrations between Solidity contracts and Go-based backends, designing high-performance Rust-based event processors, and engineering cross-chain asset tracking flows between Cosmos and Ethereum. Additionally, I've built internal tools for contract observability and have a strong focus on security, writing extensive tests to simulate flashloan attacks and other exploits. My collaborative skills enable me to work effectively with cross-functional teams to ensure smooth deployments and rollouts.
+Blockchain & Protocols: Ethereum (EVM), Tendermint, Avalanche (Snowman), Rollups, Custom L1/L2s
 
+DeFi Systems: Perpetuals, Vaults, Liquidations, Order Books, Oracles
+
+Networking & Distributed Systems: libp2p, Gossip protocols, BFT consensus
+
+Security: Smart contract audits, oracle safety, liquidation logic, protocol hardforks
+
+Tooling & Infra: Docker, CI/CD, Indexers, JSON-RPC, Devnets, Monitoring
 
 ---
 
-### 🔍 Interests
-- Building next-gen Web3 ecosystems by leveraging expertise in DeFi protocols and cross-chain infrastructure to create efficient and scalable decentralized applications.
+📌 What I’m interested in
+
+Protocol R&D and blockchain infrastructure
+
+Institutional-grade DeFi and settlement systems
+
+Consensus, scalability, and cross-chain architecture
+
+Security-first smart contract and protocol design
 
 ---
 
 ### 📫 Let's Connect!
-Feel free to reach out to me via [email](mailto:harshladdhaxo@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-laddha-676937382/).
+Feel free to reach out to me via [email](mailto:piyushgx0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/piyush-gandhi-676937382/).
 
 Thank you for visiting my profile! 🚀
